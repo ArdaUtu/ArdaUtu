@@ -47,8 +47,7 @@ Mijn persoonlijke portfolio waarin ik mijn projecten en vaardigheden laat zien.
 
 ## Contact
 
-Voeg hier je e-mailadres toe  
-Voeg hier je LinkedIn-profiel toe  
+ardautu5@gmail.com  
 
 ---
 
