@@ -47,7 +47,7 @@ Mijn persoonlijke portfolio waarin ik mijn projecten en vaardigheden laat zien.
 
 ## Contact
 
-ardautu5@gmail.com  
+- ardautu5@gmail.com  
 
 ---
 
