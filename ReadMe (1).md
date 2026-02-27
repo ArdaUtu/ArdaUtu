@@ -13,7 +13,8 @@ Hallo! Mijn naam is Arda. Ik ben een gemotiveerde programmeur die het leuk vindt
 Mijn specialisaties:
 - JavaScript  
 - HTML & CSS  
-- Lua  
+- Lua
+- React  
 
 Ik werk continu aan het verbeteren van mijn vaardigheden en leer graag nieuwe technologieën om mezelf verder te ontwikkelen als developer.
 
@@ -35,6 +36,9 @@ Samenwerking aan een teamproject waarbij we werkten aan een gezamenlijke website
 - [Portfolio Website](https://ardautu.github.io/portfolio-website/)  
 Mijn persoonlijke portfolio waarin ik mijn projecten en vaardigheden laat zien.
 
+- [Raket spel](https://github.com/TechniekCollegeRotterdam/k0788-jr24-25-ArdaUtu)
+Een 3D-raketspel ontwikkeld in Unity, waarin de speler een raket bestuurt.
+
 ---
 
 ## GitHub Statistieken
@@ -42,6 +46,8 @@ Mijn persoonlijke portfolio waarin ik mijn projecten en vaardigheden laat zien.
 ![](https://github-readme-stats.vercel.app/api?username=Ardautu&theme=radical&show_icons=true)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ardautu&theme=radical&layout=compact)  
 ![](https://nirzak-streak-stats.vercel.app/?user=Ardautu&theme=radical)
+
+
 
 ---
 
