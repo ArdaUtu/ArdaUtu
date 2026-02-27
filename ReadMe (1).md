@@ -29,10 +29,10 @@ Ik werk continu aan het verbeteren van mijn vaardigheden en leer graag nieuwe te
 
 ## Projecten
 
-🔹 [Team Project](https://github.com/ArdaUtu/Team-Mustafa-Arda-de-beste-team)  
+- [Team Project](https://github.com/ArdaUtu/Team-Mustafa-Arda-de-beste-team)  
 Samenwerking aan een teamproject waarbij we werkten aan een gezamenlijke website.
 
-🔹 [Portfolio Website](https://github.com/ArdaUtu/portfolio-website)  
+- [Portfolio Website](https://github.com/ArdaUtu/portfolio-website)  
 Mijn persoonlijke portfolio waarin ik mijn projecten en vaardigheden laat zien.
 
 ---
