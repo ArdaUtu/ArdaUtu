@@ -36,16 +36,20 @@ Ik werk continu aan het verbeteren van mijn vaardigheden en leer graag nieuwe te
 
 ## Projecten
 
-- [CodeCompas website](https://github.com/ArdaUtu/Team-Mustafa-Arda-de-beste-team)  
+- [CodeCompas website](https://github.com/ArdaUtu/Team-Mustafa-Arda-de-beste-team)
+  
 Een website waar je video tutorials kunt bekijken over programmeertalen, inclusief welke populair zijn en goede beoordelingen hebben.
 
-- [Portfolio Website](https://ardautu.github.io/portfolio-website/)  
+- [Portfolio Website](https://ardautu.github.io/portfolio-website/)
+  
 Mijn persoonlijke portfolio waarin ik mijn projecten en vaardigheden laat zien.
 
 - [Rocketboost](https://github.com/TechniekCollegeRotterdam/k0788-jr24-25-ArdaUtu)
+
 Een 3D-raketspel ontwikkeld in Unity, waarin de speler een raket bestuurt.
 
 - [Roblox horror spel](https://www.roblox.com/games/92869466482449/Untitled-horror-game)
+  
 Een horrorstrategie spel gemaakt in Roblox, waarin het monster een geavanceerde AI heeft met animaties die ik zelf heb gemaakt.
 
 
