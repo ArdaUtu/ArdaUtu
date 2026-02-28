@@ -1,8 +1,14 @@
 # Hallo, ik ben Arda
 
-Student Software Developer  
-Gepassioneerd over het bouwen van moderne en gebruiksvriendelijke websites  
-Altijd bezig met leren en mezelf verbeteren  
+<p align="center">
+  <img width="200" src="https://github.com/user-attachments/assets/7a8b0762-96c7-41d4-b411-d2e353f3b04d" />
+</p>
+
+<p align="center">
+Student Software Developer<br>
+Gepassioneerd over het bouwen van moderne en gebruiksvriendelijke websites<br>
+Altijd bezig met leren en mezelf verbeteren
+</p> 
 
 ---
 
@@ -30,14 +36,18 @@ Ik werk continu aan het verbeteren van mijn vaardigheden en leer graag nieuwe te
 
 ## Projecten
 
-- [Team Project](https://github.com/ArdaUtu/Team-Mustafa-Arda-de-beste-team)  
-Samenwerking aan een teamproject waarbij we werkten aan een gezamenlijke website.
+- [CodeCompas website](https://github.com/ArdaUtu/Team-Mustafa-Arda-de-beste-team)  
+Een website waar je video tutorials kunt bekijken over programmeertalen, inclusief welke populair zijn en goede beoordelingen hebben.
 
 - [Portfolio Website](https://ardautu.github.io/portfolio-website/)  
 Mijn persoonlijke portfolio waarin ik mijn projecten en vaardigheden laat zien.
 
-- [Raket spel](https://github.com/TechniekCollegeRotterdam/k0788-jr24-25-ArdaUtu)
+- [Rocketboost](https://github.com/TechniekCollegeRotterdam/k0788-jr24-25-ArdaUtu)
 Een 3D-raketspel ontwikkeld in Unity, waarin de speler een raket bestuurt.
+
+- [Roblox horror spel](https://www.roblox.com/games/92869466482449/Untitled-horror-game)
+Een horrorstrategie spel gemaakt in Roblox, waarin het monster een geavanceerde AI heeft met animaties die ik zelf heb gemaakt.
+
 
 ---
 
@@ -51,9 +61,11 @@ Een 3D-raketspel ontwikkeld in Unity, waarin de speler een raket bestuurt.
 
 ---
 
-## Contact
+## links
 
-- ardautu5@gmail.com  
+- Contact: ardautu5@gmail.com
+- Github: https://github.com/ArdaUtu
+- [Klik hier om naar mijn portfolio te gaan](https://ardautu.github.io/portfolio-website/)  
 
 ---
 
