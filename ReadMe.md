@@ -1,10 +1,6 @@
 # Hallo, ik ben Arda
 
 <p align="center">
-  <img width="200" src="https://github.com/user-attachments/assets/7a8b0762-96c7-41d4-b411-d2e353f3b04d" />
-</p>
-
-<p align="center">
 Student Software Developer<br>
 Gepassioneerd over het bouwen van moderne en gebruiksvriendelijke websites<br>
 Altijd bezig met leren en mezelf verbeteren
